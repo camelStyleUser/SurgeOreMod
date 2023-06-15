@@ -1,0 +1,8 @@
+name: "res-ores"
+displayName: "resource ores"
+author: Yourself
+description: "ores for resources"
+version: "1.0"
+minGameVersion: "144.3"
+dependencies: [ ]
+hidden: false
